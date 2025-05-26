@@ -28,11 +28,10 @@ To create a system that:
 
 ```
 hsn-code-validation-agent/
-├── HSN_SAC.xlsx              # Master dataset of HSN codes
-├── hsn_validator.py          # Flask app with core validation logic
 ├── test_agent.py             # Script to run test validations
 ├── hsn_agent/
 │   └── agent.py              # Encapsulated agent validation logic
+│   └── HSN_SAC.xlsx          # Master dataset of HSN codes
 ├── Screenshots/              # Output screenshots (demo)
 │   ├── valid_code_output.png
 │   └── invalid_code_output.png
