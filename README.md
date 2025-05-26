@@ -72,24 +72,6 @@ Input: abcd → Output: {'code': 'abcd', 'valid': False, 'reason': 'Invalid form
 
 ---
 
-### 💡 API Option (Flask)
-
-The app can be started as a Flask API using:
-
-```bash
-python hsn_validator.py
-```
-
-Then POST to `/validate` with:
-
-```json
-{
-  "code": "01012100"
-}
-```
-
----
-
 ## 🔮 Future Enhancements
 
 - Hierarchical code validation (parent-child relationships)
