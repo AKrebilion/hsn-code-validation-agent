@@ -91,29 +91,6 @@ Then POST to `/validate` with:
 
 ---
 
-## 📸 Screenshots
-
-| Valid Code | Invalid Code |
-|------------|--------------|
-| ![Valid](Screenshots/valid_code_output.png) | ![Invalid](Screenshots/invalid_code_output.png) |
-
----
-
-## 🎥 Explanation Video
-
-📺 [Watch on Google Drive](https://drive.google.com/your-video-link-here)
-
----
-
-## 📝 Submission Checklist
-
-- ✅ Explanation video
-- ✅ Output screenshots
-- ✅ GitHub repo (no ZIPs)
-- ✅ Code + README + dataset included
-
----
-
 ## 🔮 Future Enhancements
 
 - Hierarchical code validation (parent-child relationships)
